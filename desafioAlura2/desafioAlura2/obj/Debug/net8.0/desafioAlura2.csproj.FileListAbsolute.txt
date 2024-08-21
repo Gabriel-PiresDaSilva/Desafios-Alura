@@ -1,0 +1,14 @@
+C:\Users\Gabriel\source\repos\desafioAlura2\desafioAlura2\bin\Debug\net8.0\desafioAlura2.exe
+C:\Users\Gabriel\source\repos\desafioAlura2\desafioAlura2\bin\Debug\net8.0\desafioAlura2.deps.json
+C:\Users\Gabriel\source\repos\desafioAlura2\desafioAlura2\bin\Debug\net8.0\desafioAlura2.runtimeconfig.json
+C:\Users\Gabriel\source\repos\desafioAlura2\desafioAlura2\bin\Debug\net8.0\desafioAlura2.dll
+C:\Users\Gabriel\source\repos\desafioAlura2\desafioAlura2\bin\Debug\net8.0\desafioAlura2.pdb
+C:\Users\Gabriel\source\repos\desafioAlura2\desafioAlura2\obj\Debug\net8.0\desafioAlura2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\desafioAlura2\desafioAlura2\obj\Debug\net8.0\desafioAlura2.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\desafioAlura2\desafioAlura2\obj\Debug\net8.0\desafioAlura2.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\desafioAlura2\desafioAlura2\obj\Debug\net8.0\desafioAlura2.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\desafioAlura2\desafioAlura2\obj\Debug\net8.0\desafioAlura2.dll
+C:\Users\Gabriel\source\repos\desafioAlura2\desafioAlura2\obj\Debug\net8.0\refint\desafioAlura2.dll
+C:\Users\Gabriel\source\repos\desafioAlura2\desafioAlura2\obj\Debug\net8.0\desafioAlura2.pdb
+C:\Users\Gabriel\source\repos\desafioAlura2\desafioAlura2\obj\Debug\net8.0\desafioAlura2.genruntimeconfig.cache
+C:\Users\Gabriel\source\repos\desafioAlura2\desafioAlura2\obj\Debug\net8.0\ref\desafioAlura2.dll
